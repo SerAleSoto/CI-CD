@@ -1,0 +1,28 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "Pruebas CI-CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerAleSoto/CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SerAleSoto/CI-CD/issues"
+  },
+  "homepage": "https://github.com/SerAleSoto/CI-CD#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "supertest": "^7.2.2"
+  }
+}
